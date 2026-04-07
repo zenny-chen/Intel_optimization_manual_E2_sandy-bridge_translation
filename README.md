@@ -1,6 +1,6 @@
 # 【Intel 软件优化手册】E2 Sandy Bridge 微架构（包含宏融合与微融合的描述）
 
-@[TOC](目录)
+<br />
 
 # E.2 Sandy Bridge 微架构
 
